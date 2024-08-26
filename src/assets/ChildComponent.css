@@ -1,0 +1,26 @@
+.child-container {
+    margin-top: 20px;
+   
+  }
+  
+  .task {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0px;
+    padding: 10px;
+    background-color: #abb7c3;
+    border: 1px grey solid;
+    /* border-radius: 5px; */
+    width: 100%;
+  }
+
+  .deletebtn {
+    margin-right: 8px;
+  }
+
+  
+  input[type="text"] {
+    flex: 1;
+    margin-right: 0px;
+  }
+  
